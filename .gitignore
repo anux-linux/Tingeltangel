@@ -9,3 +9,6 @@
 /emulator.log
 /*.log
 
+*.classpath
+*.project
+.settings/
